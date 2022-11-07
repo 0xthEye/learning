@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Rubik Bubbles', cursive;
+    text-align: center;
+    height: 150%;
+    color: aliceblue;
+    background-color: brown;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust:initial;
+    font-size: medium;
+    width: 50%;
+    position:relative;
+    color: aliceblue;
+    background-color: blue;
+}
+address{
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust:initial;
+    font-size: medium;
+    width: 50%;
+    position:relative;
+    color: aliceblue;
+    background-color: red;
+    display: block;
+    text-align: center;
+    text-decoration: double;
+}
+body{
+    background-color: black;
+    display: block;
+}
